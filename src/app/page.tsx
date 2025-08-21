@@ -5,13 +5,11 @@ import {
   GraduationCap,
   Mail,
   Phone,
-  CalendarDays,
   Quote,
   ChevronRight,
   Menu,
   X,
   Shield,
-  Users,
   User,
   School,
 } from "lucide-react";
